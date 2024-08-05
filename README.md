@@ -10,3 +10,7 @@ This project implements sentiment analysis using BERT (Bidirectional Encoder Rep
 - **BERT Model**: Utilizes BERT for feature extraction and sentiment classification.
 - **Fine-Tuning**: Implements fine-tuning of the BERT model on the sentiment analysis dataset.
 - **Evaluation**: Provides evaluation metrics including accuracy, precision, recall, and F1-score.
+
+## Acknowledgements
+- **BERT Model
+- **Hugging Face Transformers
