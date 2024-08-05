@@ -12,5 +12,5 @@ This project implements sentiment analysis using BERT (Bidirectional Encoder Rep
 - **Evaluation**: Provides evaluation metrics including accuracy, precision, recall, and F1-score.
 
 ## Acknowledgements
-- **BERT Model
-- **Hugging Face Transformers
+- **BERT Model**
+- **Hugging Face Transformers**
