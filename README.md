@@ -4,6 +4,9 @@
 
 This project implements sentiment analysis using BERT (Bidirectional Encoder Representations from Transformers), a state-of-the-art pre-trained language model developed by Google. The goal is to classify text into sentiment categories such as positive, negative, or neutral. 
 
+## Dataset
+We'll load the Google Play app reviews dataset
+
 ## Features
 
 - **Preprocessing**: Includes tokenization and padding to prepare text data for BERT.
