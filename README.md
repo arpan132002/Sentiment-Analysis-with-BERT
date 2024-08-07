@@ -1,4 +1,4 @@
-# Sentiment Analysis with BERT Google Play Reviews
+# Sentiment Analysis with BERT for Google Play Reviews
 
 ## Overview
 
